@@ -1,4 +1,4 @@
-# Lama Dev School Management Dashboard
+# Learnity - A smart AI powered ERP system
 
 ## Getting Started
 
